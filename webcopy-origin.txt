@@ -1,0 +1,368 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\ajax\libs\gsap\3.2.6\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/MotionPathPlugin.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\ajax\libs\gsap\3.2.6\MotionPathPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/ScrollToPlugin.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\ajax\libs\gsap\3.2.6\ScrollToPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);@font-face{font-family:League Gothic;src:url(../../lib/font/league_gothic-webfont.eot);src:url(../../lib/font/league_gothic-webfont.eot?
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://guillaumegouessan.com/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/about
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\about.html
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/build.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\build.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/build.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\build.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/critical.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\critical.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/favicon.ico
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://guillaumegouessan.com/sketches/bonfire/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\bonfire\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/sketches/bonfire/assets/logo.svg
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\bonfire\assets\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://guillaumegouessan.com/sketches/bonfire/build.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\bonfire\build.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/sketches/dancing-instances/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\dancing-instances\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/sketches/dancing-instances/index.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\dancing-instances\index.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/sketches/drapeau/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\drapeau\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/sketches/drapeau/index.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\drapeau\index.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/sketches/ecailles/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\ecailles\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/sketches/ecailles/index.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\ecailles\index.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/sketches/fur/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\fur\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/sketches/fur/index.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\fur\index.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/sketches/subsurface-scattering/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\subsurface-scattering\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/sketches/subsurface-scattering/index.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\subsurface-scattering\index.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/sketches/tentacles/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\tentacles\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/sketches/tentacles/index.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\sketches\tentacles\index.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/greensock/src/minified/TweenMax.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\greensock\src\minified\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/jquery/dist/jquery.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/css/reveal.min.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\css\reveal.min.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/css/theme/solarized.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\css\theme\solarized.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/js/reveal.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\js\reveal.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/lib/css/zenburn.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\lib\css\zenburn.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/lib/font/league_gothic-webfont.eot
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\lib\font\league_gothic-webfont.eot
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/lib/font/league_gothic-webfont.eot?
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\lib\font\league_gothic-webfont-1.eot
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/lib/font/league_gothic-webfont.svg
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\lib\font\league_gothic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/lib/font/league_gothic-webfont.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\lib\font\league_gothic-webfont.ttf
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/lib/font/league_gothic-webfont.woff
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\lib\font\league_gothic-webfont.woff
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/move/bower_components/reveal.js/lib/js/head.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\bower_components\reveal.js\lib\js\head.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/css/styles.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\css\styles.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/move/img/graph-expo.svg
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\img\graph-expo.svg
+Content Type: image/svg+xml
+
+Uri: https://guillaumegouessan.com/talk/move/img/graph-linear.svg
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\img\graph-linear.svg
+Content Type: image/svg+xml
+
+Uri: https://guillaumegouessan.com/talk/move/img/out.png
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\img\out.png
+Content Type: image/png
+
+Uri: https://guillaumegouessan.com/talk/move/js/main.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\main.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/physics/Link.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\physics\Link.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/physics/Physics.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\physics\Physics.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/physics/Point.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\physics\Point.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/physics/utils.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\physics\utils.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/base/Slide.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\base\Slide.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/ComposingDemo.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\ComposingDemo.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/EasingChain.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\EasingChain.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/EasingExpo.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\EasingExpo.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/EasingFrame.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\EasingFrame.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/EasingLinear.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\EasingLinear.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/EasingMouse.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\EasingMouse.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/EasingTypes.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\EasingTypes.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/Further3D.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\Further3D.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/FurtherRope.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\FurtherRope.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/FurtherSmearing.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\FurtherSmearing.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/IntroProperties.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\IntroProperties.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/StaggeringNope.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\StaggeringNope.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/move/js/slides/StaggeringYep.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\move\js\slides\StaggeringYep.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\index.htm
+Content Type: text/html
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/dat-gui/build/dat.gui.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\dat-gui\build\dat.gui.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/greensock/src/minified/TweenMax.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\greensock\src\minified\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/jquery/dist/jquery.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/css/reveal.min.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\css\reveal.min.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/css/theme/default.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\css\theme\default.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/js/reveal.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\js\reveal.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/lib/css/zenburn.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\lib\css\zenburn.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/lib/font/league_gothic-webfont.eot
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\lib\font\league_gothic-webfont.eot
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/lib/font/league_gothic-webfont.eot?
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\lib\font\league_gothic-webfont-1.eot
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/lib/font/league_gothic-webfont.svg
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\lib\font\league_gothic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/lib/font/league_gothic-webfont.ttf
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\lib\font\league_gothic-webfont.ttf
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/lib/font/league_gothic-webfont.woff
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\lib\font\league_gothic-webfont.woff
+Content Type: binary/octet-stream
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/reveal.js/lib/js/head.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\reveal.js\lib\js\head.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/assets/lib/threejs/build/three.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\assets\lib\threejs\build\three.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/build/app.min.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\build\app.min.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/talk/workshop/build/styles.css
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\build\styles.css
+Content Type: text/css
+
+Uri: https://guillaumegouessan.com/talk/workshop/build/vendors.js
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\talk\workshop\build\vendors.js
+Content Type: application/javascript
+
+Uri: https://guillaumegouessan.com/works
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\works.html
+Content Type: text/html
+
+Uri: https://poly.google.com/
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\index-1.htm
+Content Type: application/binary
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-35394000-1
+File Name: C:\Users\nicol\OneDrive\Escritorio\guillaumegouessan.com\gtag\js
+Content Type: application/javascript
+
